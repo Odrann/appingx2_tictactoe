@@ -15,7 +15,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val explicitIntent = Intent(this, activity_second_activity::class.java)
+        val explicitIntent = Intent(this, second_activity::class.java)
+        explicitIntent.putExtra("name",editText.toString())
 
         //val btn = findViewById<View>(R.id.btn1) as Button
 

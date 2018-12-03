@@ -8,4 +8,8 @@
         Odran PHILIBERT for android exam on 3rd December
     </string>
     <string name="made_at">Made at</string>
+    <string name="player_turn">Player turn:</string>
+    <string name="x_guest">X(Guest)</string>
+    <string name="o">O</string>
+    <string name="n">.</string>
 </resources>
