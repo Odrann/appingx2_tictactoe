@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tictactoe</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="name">Name</string>
+    <string name="please_enter_your_name">Please enter your name:</string>
+    <string name="start">Start</string>
+    <string name="one_app_one_game_made_by_odran_philibert_for_android_exam_on_3rd_december">One app, one game, made by
+        Odran PHILIBERT for android exam on 3rd December
+    </string>
+    <string name="made_at">Made at</string>
+</resources>
